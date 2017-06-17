@@ -2,6 +2,7 @@ import re
 from itertools import combinations
 
 
+
 def damage(spell):
     """
     Function calculating damage

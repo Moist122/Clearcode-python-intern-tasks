@@ -1,6 +1,7 @@
 import re
 
 
+
 def group_by(stream, field, success=None):
     '''
     Function counting rochet launches in months or years
